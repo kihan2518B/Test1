@@ -1,0 +1,19 @@
+.name {
+    color: rgb(35, 109, 255);
+    background-color: aqua;
+    text-align: center;
+    font-size: 40px;
+}
+
+.wellcome {
+    color: salmon;
+    background-color: bisque;
+    font-size: 20px;
+    text-align: center;
+}
+
+.btn {
+    background-color: rgb(35, 109, 255);
+    color: white;
+    text-align: center;
+}
